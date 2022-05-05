@@ -173,7 +173,7 @@ function Dashboard() {
                 <hr style={{"width": "100%"}} />
 
                 <footer className="footer">
-                    Powered by Vercal 
+                    Powered by Vercel 
                 </footer>
             </div>
 
